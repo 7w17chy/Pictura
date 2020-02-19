@@ -1,2 +1,2 @@
 #!/bin/sh
-gcc src/main.c -o out/tedi -lglfw -lGLEW -lGLU -lGL
+gcc src/*.c -o out/ogl -lglfw -lGLEW -lGLU -lGL
